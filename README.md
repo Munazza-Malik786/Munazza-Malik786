@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Munazza-Malik786
+- Here is my portfolio link (https://munazza-malik786.github.io/portfolio/)
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning laravel(php Frame work)
 - 💞️ I’m looking to collaborate on I'm looking to collaborate on my web development projects hosted on GitHub. I have several projects that span various aspects of web development, including front-end frameworks, back-end services, and full-stack applications. I'm eager to work with fellow developers who are passionate about web development and open to contributing to open-source projects.
